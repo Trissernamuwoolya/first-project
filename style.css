@@ -1,20 +1,43 @@
-body {
-background-color:gray;
-
-
+ ul li ,a{
+    list-style: none;
+    display:inline;
 }
-h1{
-    color:purple;
-}
-ul{
-    background-color:paleturquoise;
+    h1{
+        background-color: #654;
+    }
+    p{
+        color:grey
+    }
+    li{
+        color:mediumpurple;
+    }
+.anne li{
+    display: block;}
+    .bug th{
+        display: block;}
+    h1{
+        text-align: center;
+        color:palegreen;
+    }
+    body{
+            background-color:antiquewhite;
+    }
+    table,
+    th,
+    tr{
+        border:2px solid tomato;
+        border-collapse:collapse;
+    }
+    table{
+            width:90;
+            
+    }
+    th{
+            width:90;
+    }
+    tr{
+            width:90;
+    }
     
-}
-li{
-    list-style:none;
-     display:inline;
-    margin: 10px;
-}
-a{
-    text-decoration: none;
-}
+    
+    
