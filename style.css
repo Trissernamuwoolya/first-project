@@ -1,0 +1,20 @@
+body {
+background-color:gray;
+
+
+}
+h1{
+    color:purple;
+}
+ul{
+    background-color:paleturquoise;
+    
+}
+li{
+    list-style:none;
+     display:inline;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+}
